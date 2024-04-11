@@ -1,4 +1,6 @@
- Here's a breakdown of the analysis:
+# **WALMART Data Analysis & Visualization**
+
+Here's a breakdown of the analysis:
 
 1. **Data Import and Overview**:
    - Importing necessary libraries and reading CSV files containing data.
