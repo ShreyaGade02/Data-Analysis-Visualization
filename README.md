@@ -1,4 +1,4 @@
-The provided code conducts an in-depth analysis of Walmart's sales data, covering various aspects such as visualizations, statistical summaries, and correlations. Here's a breakdown of the analysis:
+ Here's a breakdown of the analysis:
 
 1. **Data Import and Overview**:
    - Importing necessary libraries and reading CSV files containing data.
